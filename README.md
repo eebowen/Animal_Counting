@@ -15,3 +15,7 @@ Most recent papers and code on animal detection, remote sensing, and background 
 ## Remote Sensing with Large Language Models (LLM)
 * **Vision-Language Models in Remote Sensing: Current Progress and Future Trends** [[paper]](https://arxiv.org/abs/2305.05726). Arxiv 2023.
 * **RemoteCLIP: A Vision Language Foundation Model for Remote Sensing** [[paper]](https://arxiv.org/abs/2305.05726) [[code]](https://github.com/ChenDelong1999/RemoteCLIP). Arxiv 2023.
+
+
+## Other tools
+* **Samgeo: A Python package for segmenting geospatial data with the Segment Anything Model (SAM) 🗺️**[[link]](https://samgeo.gishub.org/)
